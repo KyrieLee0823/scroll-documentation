@@ -319,11 +319,11 @@ In addition, a group of classes are `applied automatically to certain HTML tags`
 
 <br/>
 
-Classes available in CLDS acording to their use:
+Classes available in CLDS according to their use:
 
 ### [**Layout**](components/layout.css)
 
-Top level classes to match the page layout of the Chainlink productss (ie. Automation, VRF, etc.).
+Top level classes to match the page layout of the Chainlink products (ie. Automation, VRF, etc.).
 
 - **container**
 
@@ -477,7 +477,7 @@ import hero from "@chainlink/design-system/hero.module.css"
 
 **Usage**
 
-Place the hero.container class in the components's parent element.
+Place the hero.container class in the components' parent element.
 
 **Structure**
 

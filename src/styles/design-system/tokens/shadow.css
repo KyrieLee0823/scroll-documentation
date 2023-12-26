@@ -41,6 +41,6 @@
     15px 30px 45.3px -0.9px hsl(var(--shadow-color-secondary) / 0.37),
     21.3px 42.5px 64.2px -1px hsl(var(--shadow-color-secondary) / 0.41);
 
-  /*TO-DO: Remove as part of FM migartion https://app.shortcut.com/chainlinklabs/story/44114/move-fms-ui-into-fms*/
+  /*TO-DO: Remove as part of FM migration https://app.shortcut.com/chainlinklabs/story/44114/move-fms-ui-into-fms*/
   --shadow-mid: 0px 8px 24px -16px rgba(12, 22, 44, 0.32);
 }
